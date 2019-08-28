@@ -10,4 +10,4 @@ let.temp = arr [i];
 
 arr[i] = arr [arr.length -1 -i];
 
-arr [arr.length -1 -i] = temp;
+arr [arr.length -1 -i] = temp;git 
